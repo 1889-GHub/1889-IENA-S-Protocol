@@ -1,4 +1,4 @@
-# 1889 I.E.N.A / S - PROTOCOL
+# 1889 I.E.N.A - S PROTOCOL
 
 <br>
 
