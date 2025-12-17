@@ -1,5 +1,7 @@
 # LİSANS SÖZLEŞMESİ
 
+<br>
+
 ## TELİF HAKKI
 
 **Telif Hakkı © 2025 Vinnie - Tüm Hakları Saklıdır**
