@@ -1,0 +1,12 @@
+
+{
+    
+    "CA_Cert_Path": "1889 - Certificates\\CA.crt",
+
+    "Client_Cert_Path": "1889 - Certificates\\IENA_Member.crt",
+    "Client_Key_Path": "1889 - Certificates\\IENA_Member.key",
+    
+    "Default_Host": "127.0.0.1",
+    "Default_Port": 1889
+
+}
