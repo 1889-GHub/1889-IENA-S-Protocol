@@ -49,7 +49,7 @@ Bu modül, **1889 1889 I.E.N.A sunucularına bağlanarak ekip içi iletişim** s
 
 ### PROGRAMI İNDİRMEK İÇİN TERMUX / LİNUX
 ```git
-git clone 
+git clone https://github.com/1889-GHub/1889-IENA-S-Protocol.git
 ```
 
 <br>
